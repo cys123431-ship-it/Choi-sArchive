@@ -1,12 +1,12 @@
 # 저장소 아카이브
 
-공개 저장소 48개 · 생성일 기준 · 한국 시간(KST)
+공개 저장소 50개 · 생성일 기준 · 한국 시간(KST)
 
 [홈](../README.md)
 
-## [2026년 · 46개](2026/README.md)
+## [2026년 · 48개](2026/README.md)
 
-- [10월 · 7개](2026/10-October/README.md)
+- [10월 · 9개](2026/10-October/README.md)
 - [09월 · 6개](2026/09-September/README.md)
 - [08월 · 3개](2026/08-August/README.md)
 - [07월 · 2개](2026/07-July/README.md)
