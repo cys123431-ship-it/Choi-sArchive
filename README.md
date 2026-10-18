@@ -1,8 +1,8 @@
 # Choi's Archive
 
-공개 저장소 **47개** · GitHub 생성일 기준 · 한국 시간(KST)
+공개 저장소 **48개** · GitHub 생성일 기준 · 한국 시간(KST)
 
-마지막 목록 갱신: 2026-10-17 03:48:14 KST
+마지막 목록 갱신: 2026-10-18 20:15:14 KST
 
 [![Update repository archive](https://github.com/cys123431-ship-it/Choi-sArchive/actions/workflows/update-archive.yml/badge.svg?branch=main)](https://github.com/cys123431-ship-it/Choi-sArchive/actions/workflows/update-archive.yml)
 
@@ -14,7 +14,7 @@ GitHub의 예약 실행은 지연될 수 있습니다. 새 공개 저장소와 �
 
 ## 연도별 목록
 
-- [2026년 · 45개](archive/2026/README.md)
+- [2026년 · 46개](archive/2026/README.md)
 - [2025년 · 2개](archive/2025/README.md)
 
 ## 월별 바로가기
