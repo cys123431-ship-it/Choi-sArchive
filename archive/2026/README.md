@@ -1,10 +1,10 @@
 # 2026년
 
-공개 저장소 48개
+공개 저장소 49개
 
 [홈](../../README.md) · [전체 목록](../README.md)
 
-- [10월 · 9개](10-October/README.md)
+- [10월 · 10개](10-October/README.md)
 - [09월 · 6개](09-September/README.md)
 - [08월 · 3개](08-August/README.md)
 - [07월 · 2개](07-July/README.md)
